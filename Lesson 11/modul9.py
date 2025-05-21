@@ -56,7 +56,7 @@ E.left = I
 C.left = F
 C.right = G
 G.right = J
-
+#king haidar 
 # Menampilkan hasil
 path = find_path(A, 'Yogyakarta')
 print("Jalur dari Solo (A) ke Yogyakarta (J):", " -> ".join(path))
